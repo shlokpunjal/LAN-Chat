@@ -82,6 +82,10 @@ Enter a username and the server machine's local IP address to connect.
 
 ---
 
+## Demo
+
+https://github.com/shlokpunjal/LAN-Chat/blob/main/Output.mp4
+
 ## Learnings
 
 Socket programming forces you to think about things that higher-level frameworks hide: connection lifecycle, thread management, what happens when a client drops unexpectedly. Building this from scratch made those concepts concrete in a way no tutorial could.
